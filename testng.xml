@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demo - Test" >
+
+    <test name="Demo Test" >
+    <classes>
+      <class name="com.selenium.practices.WebTableDataHandler"/>
+        </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
